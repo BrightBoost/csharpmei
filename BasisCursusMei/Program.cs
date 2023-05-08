@@ -14,11 +14,16 @@ class Program
         foreach(var e in Enum.GetValues(typeof(WeekDag))) {
             Console.WriteLine(e);
         }
+        
+        Math.Sqrt(16);
+
+        ExampleSwitch.DoSwitch(3);
     }
 
-    public void blabla()
+    public int Blabla()
     {
         Console.WriteLine(x);
+        return 5;
     }
 }
 

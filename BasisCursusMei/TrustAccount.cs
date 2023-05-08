@@ -1,7 +1,7 @@
 ﻿using System;
 namespace BasisCursusMei
 {
-	public class TrustAccount
+	public class TrustAccount : Account
 	{
 		public TrustAccount()
 		{
