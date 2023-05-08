@@ -1,0 +1,15 @@
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/obj/Debug/net7.0/BasisCursusMei.csproj.AssemblyReference.cache
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/obj/Debug/net7.0/BasisCursusMei.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/obj/Debug/net7.0/BasisCursusMei.AssemblyInfoInputs.cache
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/obj/Debug/net7.0/BasisCursusMei.AssemblyInfo.cs
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/obj/Debug/net7.0/BasisCursusMei.csproj.CoreCompileInputs.cache
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/bin/Debug/net7.0/BasisCursusMei
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/bin/Debug/net7.0/BasisCursusMei.deps.json
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/bin/Debug/net7.0/BasisCursusMei.runtimeconfig.json
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/bin/Debug/net7.0/BasisCursusMei.dll
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/bin/Debug/net7.0/BasisCursusMei.pdb
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/obj/Debug/net7.0/BasisCursusMei.dll
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/obj/Debug/net7.0/refint/BasisCursusMei.dll
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/obj/Debug/net7.0/BasisCursusMei.pdb
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/obj/Debug/net7.0/BasisCursusMei.genruntimeconfig.cache
+/Users/maaikevanputten/Projects/BasisCursusMei/BasisCursusMei/obj/Debug/net7.0/ref/BasisCursusMei.dll
