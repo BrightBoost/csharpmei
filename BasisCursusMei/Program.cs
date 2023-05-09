@@ -19,14 +19,28 @@ class Program
 
         ExampleSwitch.DoSwitch(3);
 
-        Person p = new Person("x", 28, new List<string>() { "toneel", "hockey", "kamperen" });
-        Console.WriteLine(p.Name + " is " + p.Age + " en houdt van " + p.Hobbies[0]);
+       // Person p = new Person("Annemarie", 28, new List<string>() { "toneel", "hockey", "kamperen" });
+        //Console.WriteLine(p.Name + " is " + p.Age + " en houdt van " + p.Hobbies[0]);
+        Object o = new Object();
+        //Object p1 = new Person("Annemarie", 28, new List<string>() { "toneel", "hockey", "kamperen" });
+        Job job = new Job("Sitecore developer", "Developing sitecore stuff");
+        Employee employee = new Employee("Annemarie", 28, new List<string>() { "toneel", "hockey", "kamperen" }, job);
+        Console.WriteLine(employee.Job.Description);
+        Celebrate(employee);
+        Console.WriteLine(job);
     }
 
     public int Blabla()
     {
         Console.WriteLine(x);
         return 5;
+    }
+
+    public static void Celebrate(IPromotable p)
+    {
+        p.Promote();
+        Console.WriteLine("Feest!");
+        List<string> test = new List<string>();
     }
 }
 

@@ -2,7 +2,7 @@
 using System;
 namespace BasisCursusMei
 {
-	public class Person
+	public abstract class Person
 	{
 		private string _name;
 		public string Name
@@ -28,6 +28,9 @@ namespace BasisCursusMei
 			Age = age;
 			Hobbies = hobbies;
 		}
+
+		public abstract void Greet();
+
 	}
 }
 
