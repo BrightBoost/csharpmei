@@ -18,6 +18,9 @@ class Program
         Math.Sqrt(16);
 
         ExampleSwitch.DoSwitch(3);
+
+        Person p = new Person("x", 28, new List<string>() { "toneel", "hockey", "kamperen" });
+        Console.WriteLine(p.Name + " is " + p.Age + " en houdt van " + p.Hobbies[0]);
     }
 
     public int Blabla()
